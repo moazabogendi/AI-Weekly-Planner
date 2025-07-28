@@ -18,13 +18,21 @@ An intelligent weekly planner that takes free-text goals and automatically gener
 
 ## 📥 Example Input
 Workout every morning
+
 Read 200 pages before Thursday
+
 Go to gym 3x not on weekends
+
 Check LinkedIn every Tuesday
+
 Write blog before Wednesday after Friday
+
 Study ML 40 hours
+
 Do react project every evening
+
 Study math every evening
+
 Write blog every evening
 
 
